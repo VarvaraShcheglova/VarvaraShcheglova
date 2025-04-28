@@ -1,4 +1,4 @@
-👋 Hi, I'm Varvara Shcheglova
+👋# Hi, I'm Varvara Shcheglova
 <br>
 **MSc Computational Science student at the University of Vienna**
 <br>
