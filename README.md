@@ -1,6 +1,6 @@
 👋 Hi, I'm Varvara Shcheglova
 <br>
-I am MSc Computational Science student at the University of Vienna
+**MSc Computational Science student at the University of Vienna**
 <br>
 Interested in RNA-seq analysis, immunology, and translational bioinformatics
 
@@ -10,6 +10,6 @@ Skilled in RNA-seq pipelines (STAR, FeatureCounts, DESeq2), genome assembly (Fly
 
 Passionate about applying computational methods to medical and biological research
 
-How to reach me:
+**How to reach me:**
 <br>
 Email: varvarika528@gmail.com
