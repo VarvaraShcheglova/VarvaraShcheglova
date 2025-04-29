@@ -8,7 +8,7 @@
 
 - Skilled in RNA-seq pipelines (STAR, FeatureCounts, DESeq2), genome assembly (Flye, Hifiasm), and biological data visualization (R, Python)
 
-- Passionate about applying computational methods to medical and biological research
+- Applying computational approaches to problems in biology and medicine
 
 **How to reach me:**
 <br>
